@@ -26,4 +26,7 @@
 
     <!-- Folder titles -->
     <string name="google_folder_title" translatable="false">Google</string>
+
+    <string name="pref_allow_phone_taskbar">Use taskbar</string>
+    <string name="pref_allow_phone_taskbar_desc">For opening and switching apps anywhere</string>
 </resources>
